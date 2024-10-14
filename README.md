@@ -1,5 +1,6 @@
 Copyright 2024 Toma-Ioan Dumitrescu
 
+
 ## Description
 
 The project consists in representating suffix trees in Racket and
